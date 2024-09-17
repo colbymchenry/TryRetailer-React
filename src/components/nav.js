@@ -17,13 +17,13 @@ const Nav = (props) => {
             ></Script>
           </div>
         </div>
-        <span>
-          {props.text ?? (
+        <Link to="/" className="nav-navlink">
+          {props.text1 ?? (
             <Fragment>
-              <span className="nav-text4">Retailer</span>
+              <span className="nav-text5">Retailer</span>
             </Fragment>
           )}
-        </span>
+        </Link>
       </div>
       <div className="nav-links">
         <Link to="/privacy-policy" className="nav-link1">
@@ -64,15 +64,15 @@ const Nav = (props) => {
 Nav.defaultProps = {
   link: undefined,
   rootClassName: '',
-  text: undefined,
   link1: undefined,
+  text1: undefined,
 }
 
 Nav.propTypes = {
   link: PropTypes.element,
   rootClassName: PropTypes.string,
-  text: PropTypes.element,
   link1: PropTypes.element,
+  text1: PropTypes.element,
 }
 
 export default Nav

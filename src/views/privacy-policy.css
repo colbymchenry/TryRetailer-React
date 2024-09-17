@@ -13,12 +13,6 @@
   font-family: "Lexend";
   font-weight: 500;
 }
-.privacy-policy-text12 {
-  color: #ffffff;
-  display: inline-block;
-  font-size: 24px;
-  font-family: "Lexend";
-}
 .privacy-policy-link2 {
   color: #ffffff;
   display: inline-block;
@@ -26,6 +20,12 @@
   font-style: normal;
   font-family: "Lexend";
   font-weight: 500;
+}
+.privacy-policy-text14 {
+  color: rgb(255, 255, 255);
+  display: inline-block;
+  font-size: 24px;
+  font-family: "Lexend";
 }
 .privacy-policy-main {
   flex: 0 0 auto;
@@ -347,4 +347,18 @@
   font-style: normal;
   font-family: "Lexend";
   font-weight: 700;
+}
+@media(max-width: 479px) {
+  .privacy-policy-link1 {
+    font-size: 16px;
+  }
+  .privacy-policy-link2 {
+    font-size: 16px;
+  }
+  .privacy-policy-text108 {
+    color: rgb(100, 116, 139);
+    font-style: normal;
+    font-family: Lexend;
+    font-weight: 700;
+  }
 }

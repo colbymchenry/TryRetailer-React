@@ -27,11 +27,6 @@ const TermsOfService = (props) => {
             </a>
           </Fragment>
         }
-        text={
-          <Fragment>
-            <span className="terms-of-service-text102">Retailer</span>
-          </Fragment>
-        }
         link1={
           <Fragment>
             <a
@@ -46,6 +41,11 @@ const TermsOfService = (props) => {
           </Fragment>
         }
         rootClassName="navroot-class-name"
+        text1={
+          <Fragment>
+            <span className="terms-of-service-text104">Retailer</span>
+          </Fragment>
+        }
       ></Nav>
       <div className="terms-of-service-main">
         <span className="terms-of-service-text105">
@@ -318,9 +318,7 @@ const TermsOfService = (props) => {
         }
         copyright={
           <Fragment>
-            <span className="terms-of-service-text231">
-              Retailer, LLC 20243
-            </span>
+            <span className="terms-of-service-text231">Retailer, LLC 2024</span>
           </Fragment>
         }
         rootClassName="footerroot-class-name1"

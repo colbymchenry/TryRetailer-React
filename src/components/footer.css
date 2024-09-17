@@ -69,3 +69,11 @@
     justify-content: flex-start;
   }
 }
+@media(max-width: 479px) {
+  .footer-text1 {
+    color: rgb(100, 116, 139);
+    font-style: normal;
+    font-family: Lexend;
+    font-weight: 700;
+  }
+}

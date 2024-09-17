@@ -13,7 +13,7 @@ const Footer = (props) => {
         <span>
           {props.copyright ?? (
             <Fragment>
-              <span className="footer-text1">Retailer, LLC 20243</span>
+              <span className="footer-text1">Retailer, LLC 2024</span>
             </Fragment>
           )}
         </span>

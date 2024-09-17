@@ -27,11 +27,6 @@ const PrivacyPolicy = (props) => {
             </a>
           </Fragment>
         }
-        text={
-          <Fragment>
-            <span className="privacy-policy-text12">Retailer</span>
-          </Fragment>
-        }
         link1={
           <Fragment>
             <a
@@ -43,6 +38,11 @@ const PrivacyPolicy = (props) => {
               <span>Terms of Service</span>
               <br></br>
             </a>
+          </Fragment>
+        }
+        text1={
+          <Fragment>
+            <span className="privacy-policy-text14">Retailer</span>
           </Fragment>
         }
       ></Nav>
@@ -241,7 +241,7 @@ const PrivacyPolicy = (props) => {
         }
         copyright={
           <Fragment>
-            <span className="privacy-policy-text108">Retailer, LLC 20243</span>
+            <span className="privacy-policy-text108">Retailer, LLC 2024</span>
           </Fragment>
         }
         rootClassName="footerroot-class-name"
