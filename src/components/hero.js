@@ -48,13 +48,13 @@ const Hero = (props) => {
 }
 
 Hero.defaultProps = {
-  appSrc: '/screenshot%202024-09-13%20193924-700h.png',
+  appSrc: '/screenshot%202024-09-13%20193924-200w.png',
   rootClassName: '',
   appAlt: 'image',
   body: undefined,
   text: undefined,
   iphoneAlt: 'image',
-  iphoneSrc: '/iphone-outline1-700h.png',
+  iphoneSrc: '/iphone-outline1-300w.png',
 }
 
 Hero.propTypes = {
