@@ -1,0 +1,350 @@
+.privacy-policy-container {
+  width: 100%;
+  display: flex;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.privacy-policy-link1 {
+  color: #ffffff;
+  display: inline-block;
+  font-size: 20px;
+  font-style: normal;
+  font-family: "Lexend";
+  font-weight: 500;
+}
+.privacy-policy-text12 {
+  color: #ffffff;
+  display: inline-block;
+  font-size: 24px;
+  font-family: "Lexend";
+}
+.privacy-policy-link2 {
+  color: #ffffff;
+  display: inline-block;
+  font-size: 20px;
+  font-style: normal;
+  font-family: "Lexend";
+  font-weight: 500;
+}
+.privacy-policy-main {
+  flex: 0 0 auto;
+  width: 100%;
+  height: auto;
+  display: flex;
+  align-items: flex-start;
+  padding-top: var(--dl-space-space-oneandhalfunits);
+  padding-left: var(--dl-space-space-oneandhalfunits);
+  padding-right: var(--dl-space-space-oneandhalfunits);
+  flex-direction: column;
+  padding-bottom: var(--dl-space-space-oneandhalfunits);
+}
+.privacy-policy-text15 {
+  font-size: 20px;
+  text-align: justify;
+  font-family: "Lexend";
+  font-weight: 300;
+  line-height: 1.5;
+}
+.privacy-policy-text16 {
+  font-size: 42px;
+  font-style: normal;
+  font-weight: 700;
+}
+.privacy-policy-text17 {
+  font-style: normal;
+}
+.privacy-policy-text18 {
+  font-style: normal;
+}
+.privacy-policy-text19 {
+  font-style: normal;
+}
+.privacy-policy-text20 {
+  font-weight: 700;
+}
+.privacy-policy-text21 {
+  font-style: normal;
+}
+.privacy-policy-text22 {
+  font-style: normal;
+}
+.privacy-policy-text23 {
+  font-style: normal;
+}
+.privacy-policy-text24 {
+  font-style: normal;
+}
+.privacy-policy-text25 {
+  font-style: normal;
+}
+.privacy-policy-text26 {
+  font-size: 28px;
+  font-weight: 700;
+}
+.privacy-policy-text27 {
+  font-style: normal;
+}
+.privacy-policy-text28 {
+  font-style: normal;
+}
+.privacy-policy-text29 {
+  font-weight: 500;
+}
+.privacy-policy-text30 {
+  font-style: normal;
+}
+.privacy-policy-text31 {
+  font-style: normal;
+}
+.privacy-policy-text32 {
+  font-style: normal;
+}
+.privacy-policy-text33 {
+  font-style: normal;
+}
+.privacy-policy-text34 {
+  font-weight: 500;
+}
+.privacy-policy-text35 {
+  font-style: normal;
+}
+.privacy-policy-text36 {
+  font-style: normal;
+}
+.privacy-policy-text37 {
+  font-style: normal;
+}
+.privacy-policy-text38 {
+  font-style: normal;
+}
+.privacy-policy-text39 {
+  font-size: 28px;
+  font-weight: 700;
+}
+.privacy-policy-text40 {
+  font-style: normal;
+}
+.privacy-policy-text41 {
+  font-style: normal;
+}
+.privacy-policy-text42 {
+  font-style: normal;
+}
+.privacy-policy-text43 {
+  font-style: normal;
+}
+.privacy-policy-text44 {
+  font-style: normal;
+}
+.privacy-policy-text45 {
+  font-style: normal;
+}
+.privacy-policy-text46 {
+  font-style: normal;
+}
+.privacy-policy-text47 {
+  font-style: normal;
+}
+.privacy-policy-text48 {
+  font-style: normal;
+}
+.privacy-policy-text49 {
+  font-style: normal;
+}
+.privacy-policy-text50 {
+  font-style: normal;
+}
+.privacy-policy-text51 {
+  font-size: 28px;
+  font-weight: 700;
+}
+.privacy-policy-text52 {
+  font-style: normal;
+}
+.privacy-policy-text53 {
+  font-weight: 500;
+}
+.privacy-policy-text54 {
+  font-weight: 500;
+}
+.privacy-policy-text55 {
+  font-style: normal;
+}
+.privacy-policy-text56 {
+  font-style: normal;
+}
+.privacy-policy-text57 {
+  font-style: normal;
+}
+.privacy-policy-text58 {
+  font-style: normal;
+}
+.privacy-policy-text59 {
+  font-weight: 500;
+}
+.privacy-policy-text60 {
+  font-style: normal;
+}
+.privacy-policy-text61 {
+  font-style: normal;
+}
+.privacy-policy-text62 {
+  font-style: normal;
+}
+.privacy-policy-text63 {
+  font-style: normal;
+}
+.privacy-policy-text64 {
+  font-size: 28px;
+  font-weight: 700;
+}
+.privacy-policy-text65 {
+  font-style: normal;
+}
+.privacy-policy-text66 {
+  font-style: normal;
+}
+.privacy-policy-text67 {
+  font-style: normal;
+}
+.privacy-policy-text68 {
+  font-style: normal;
+}
+.privacy-policy-text69 {
+  font-style: normal;
+}
+.privacy-policy-text70 {
+  font-style: normal;
+}
+.privacy-policy-text71 {
+  font-style: normal;
+}
+.privacy-policy-text72 {
+  font-size: 28px;
+  font-weight: 700;
+}
+.privacy-policy-text73 {
+  font-style: normal;
+}
+.privacy-policy-text74 {
+  font-style: normal;
+}
+.privacy-policy-text75 {
+  font-style: normal;
+}
+.privacy-policy-text76 {
+  font-style: normal;
+}
+.privacy-policy-text77 {
+  font-style: normal;
+}
+.privacy-policy-text78 {
+  font-style: normal;
+}
+.privacy-policy-text79 {
+  font-style: normal;
+}
+.privacy-policy-text80 {
+  font-style: normal;
+}
+.privacy-policy-text81 {
+  font-style: normal;
+}
+.privacy-policy-text82 {
+  font-style: normal;
+}
+.privacy-policy-text83 {
+  font-style: normal;
+}
+.privacy-policy-text84 {
+  font-size: 28px;
+  font-weight: 700;
+}
+.privacy-policy-text85 {
+  font-style: normal;
+}
+.privacy-policy-text86 {
+  font-style: normal;
+}
+.privacy-policy-text87 {
+  font-style: normal;
+}
+.privacy-policy-text88 {
+  font-style: normal;
+}
+.privacy-policy-text89 {
+  font-style: normal;
+}
+.privacy-policy-text90 {
+  font-size: 28px;
+  font-weight: 700;
+}
+.privacy-policy-text91 {
+  font-style: normal;
+}
+.privacy-policy-text92 {
+  font-style: normal;
+}
+.privacy-policy-text93 {
+  font-style: normal;
+}
+.privacy-policy-text94 {
+  font-style: normal;
+}
+.privacy-policy-text95 {
+  font-style: normal;
+}
+.privacy-policy-text96 {
+  font-size: 28px;
+  font-weight: 700;
+}
+.privacy-policy-text97 {
+  font-style: normal;
+}
+.privacy-policy-text98 {
+  font-style: normal;
+}
+.privacy-policy-text99 {
+  font-style: normal;
+}
+.privacy-policy-text100 {
+  font-style: normal;
+}
+.privacy-policy-text101 {
+  font-style: normal;
+}
+.privacy-policy-text102 {
+  font-size: 28px;
+  font-weight: 700;
+}
+.privacy-policy-text103 {
+  font-style: normal;
+}
+.privacy-policy-text104 {
+  font-style: normal;
+}
+.privacy-policy-text105 {
+  font-style: normal;
+}
+.privacy-policy-text106 {
+  color: rgb(100, 116, 139);
+  display: inline-block;
+  font-style: normal;
+  font-family: "Lexend";
+  font-weight: 700;
+}
+.privacy-policy-text107 {
+  color: rgb(100, 116, 139);
+  display: inline-block;
+  font-style: normal;
+  font-family: "Lexend";
+  font-weight: 700;
+}
+.privacy-policy-text108 {
+  color: #64748b;
+  display: inline-block;
+  font-style: normal;
+  font-family: "Lexend";
+  font-weight: 700;
+}

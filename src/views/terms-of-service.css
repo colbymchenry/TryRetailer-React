@@ -1,0 +1,542 @@
+.terms-of-service-container {
+  width: 100%;
+  display: flex;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.terms-of-service-link1 {
+  color: #ffffff;
+  display: inline-block;
+  font-size: 20px;
+  font-style: normal;
+  font-family: "Lexend";
+  font-weight: 500;
+}
+.terms-of-service-text102 {
+  color: #ffffff;
+  display: inline-block;
+  font-size: 24px;
+  font-family: "Lexend";
+}
+.terms-of-service-link2 {
+  color: #ffffff;
+  display: inline-block;
+  font-size: 20px;
+  font-style: normal;
+  font-family: "Lexend";
+  font-weight: 500;
+}
+.terms-of-service-main {
+  flex: 0 0 auto;
+  width: 100%;
+  height: auto;
+  display: flex;
+  padding: var(--dl-space-space-oneandhalfunits);
+  align-items: flex-start;
+  flex-direction: column;
+}
+.terms-of-service-text105 {
+  font-size: 20px;
+  text-align: justify;
+  font-family: "Lexend";
+  line-height: 1.5;
+}
+.terms-of-service-text106 {
+  font-size: 42px;
+  font-style: normal;
+  font-weight: 700;
+}
+.terms-of-service-text109 {
+  font-style: normal;
+  font-weight: 300;
+}
+.terms-of-service-text110 {
+  font-weight: 700;
+}
+.terms-of-service-text111 {
+  font-style: normal;
+  font-weight: 300;
+}
+.terms-of-service-text112 {
+  font-style: normal;
+  font-weight: 300;
+}
+.terms-of-service-text113 {
+  font-style: normal;
+  font-weight: 300;
+}
+.terms-of-service-text114 {
+  font-style: normal;
+  font-weight: 300;
+}
+.terms-of-service-text115 {
+  font-style: normal;
+  font-weight: 300;
+}
+.terms-of-service-text116 {
+  font-size: 28px;
+  font-weight: 700;
+}
+.terms-of-service-text117 {
+  font-style: normal;
+  font-weight: 300;
+}
+.terms-of-service-text118 {
+  font-style: normal;
+  font-weight: 300;
+}
+.terms-of-service-text119 {
+  font-weight: 500;
+}
+.terms-of-service-text120 {
+  font-style: normal;
+  font-weight: 300;
+}
+.terms-of-service-text121 {
+  font-style: normal;
+  font-weight: 300;
+}
+.terms-of-service-text122 {
+  font-style: normal;
+  font-weight: 300;
+}
+.terms-of-service-text123 {
+  font-style: normal;
+  font-weight: 300;
+}
+.terms-of-service-text124 {
+  font-weight: 500;
+}
+.terms-of-service-text125 {
+  font-style: normal;
+  font-weight: 300;
+}
+.terms-of-service-text126 {
+  font-style: normal;
+  font-weight: 300;
+}
+.terms-of-service-text127 {
+  font-style: normal;
+  font-weight: 300;
+}
+.terms-of-service-text128 {
+  font-style: normal;
+  font-weight: 300;
+}
+.terms-of-service-text129 {
+  font-size: 28px;
+  font-weight: 700;
+}
+.terms-of-service-text130 {
+  font-style: normal;
+  font-weight: 300;
+}
+.terms-of-service-text131 {
+  font-style: normal;
+  font-weight: 300;
+}
+.terms-of-service-text132 {
+  font-style: normal;
+  font-weight: 300;
+}
+.terms-of-service-text133 {
+  font-style: normal;
+  font-weight: 300;
+}
+.terms-of-service-text134 {
+  font-style: normal;
+  font-weight: 300;
+}
+.terms-of-service-text135 {
+  font-style: normal;
+  font-weight: 300;
+}
+.terms-of-service-text136 {
+  font-style: normal;
+  font-weight: 300;
+}
+.terms-of-service-text137 {
+  font-style: normal;
+  font-weight: 300;
+}
+.terms-of-service-text138 {
+  font-style: normal;
+  font-weight: 300;
+}
+.terms-of-service-text139 {
+  font-style: normal;
+  font-weight: 300;
+}
+.terms-of-service-text140 {
+  font-style: normal;
+  font-weight: 300;
+}
+.terms-of-service-text141 {
+  font-size: 28px;
+  font-weight: 700;
+}
+.terms-of-service-text142 {
+  font-style: normal;
+  font-weight: 300;
+}
+.terms-of-service-text143 {
+  font-style: normal;
+  font-weight: 300;
+}
+.terms-of-service-text144 {
+  font-style: normal;
+  font-weight: 300;
+}
+.terms-of-service-text145 {
+  font-style: normal;
+  font-weight: 300;
+}
+.terms-of-service-text146 {
+  font-style: normal;
+  font-weight: 300;
+}
+.terms-of-service-text147 {
+  font-style: normal;
+  font-weight: 300;
+}
+.terms-of-service-text148 {
+  font-style: normal;
+  font-weight: 300;
+}
+.terms-of-service-text149 {
+  font-style: normal;
+  font-weight: 300;
+}
+.terms-of-service-text150 {
+  font-style: normal;
+  font-weight: 300;
+}
+.terms-of-service-text151 {
+  font-style: normal;
+  font-weight: 300;
+}
+.terms-of-service-text152 {
+  font-style: normal;
+  font-weight: 300;
+}
+.terms-of-service-text153 {
+  font-style: normal;
+  font-weight: 300;
+}
+.terms-of-service-text154 {
+  font-style: normal;
+  font-weight: 300;
+}
+.terms-of-service-text155 {
+  font-style: normal;
+  font-weight: 300;
+}
+.terms-of-service-text156 {
+  font-style: normal;
+  font-weight: 300;
+}
+.terms-of-service-text157 {
+  font-size: 28px;
+  font-weight: 700;
+}
+.terms-of-service-text158 {
+  font-style: normal;
+  font-weight: 300;
+}
+.terms-of-service-text159 {
+  font-style: normal;
+  font-weight: 300;
+}
+.terms-of-service-text160 {
+  font-style: normal;
+  font-weight: 300;
+}
+.terms-of-service-text161 {
+  font-style: normal;
+  font-weight: 300;
+}
+.terms-of-service-text162 {
+  font-style: normal;
+  font-weight: 300;
+}
+.terms-of-service-text163 {
+  font-size: 28px;
+  font-weight: 700;
+}
+.terms-of-service-text164 {
+  font-style: normal;
+  font-weight: 300;
+}
+.terms-of-service-text165 {
+  font-style: normal;
+  font-weight: 300;
+}
+.terms-of-service-text166 {
+  font-style: normal;
+  font-weight: 300;
+}
+.terms-of-service-text167 {
+  font-style: normal;
+  font-weight: 300;
+}
+.terms-of-service-text168 {
+  font-style: normal;
+  font-weight: 300;
+}
+.terms-of-service-text169 {
+  font-size: 28px;
+  font-weight: 700;
+}
+.terms-of-service-text170 {
+  font-style: normal;
+  font-weight: 300;
+}
+.terms-of-service-text171 {
+  font-style: normal;
+  font-weight: 300;
+}
+.terms-of-service-text172 {
+  font-style: normal;
+  font-weight: 300;
+}
+.terms-of-service-text173 {
+  font-style: normal;
+  font-weight: 300;
+}
+.terms-of-service-text174 {
+  font-style: normal;
+  font-weight: 300;
+}
+.terms-of-service-text175 {
+  font-size: 28px;
+  font-weight: 700;
+}
+.terms-of-service-text176 {
+  font-style: normal;
+  font-weight: 300;
+}
+.terms-of-service-text177 {
+  font-style: normal;
+  font-weight: 300;
+}
+.terms-of-service-text178 {
+  font-style: normal;
+  font-weight: 300;
+}
+.terms-of-service-text179 {
+  font-style: normal;
+  font-weight: 300;
+}
+.terms-of-service-text180 {
+  font-style: normal;
+  font-weight: 300;
+}
+.terms-of-service-text181 {
+  font-weight: 500;
+}
+.terms-of-service-text182 {
+  font-style: normal;
+  font-weight: 300;
+}
+.terms-of-service-text183 {
+  font-style: normal;
+  font-weight: 300;
+}
+.terms-of-service-text184 {
+  font-style: normal;
+  font-weight: 300;
+}
+.terms-of-service-text185 {
+  font-style: normal;
+  font-weight: 300;
+}
+.terms-of-service-text186 {
+  font-size: 28px;
+  font-weight: 700;
+}
+.terms-of-service-text187 {
+  font-style: normal;
+  font-weight: 300;
+}
+.terms-of-service-text188 {
+  font-style: normal;
+  font-weight: 300;
+}
+.terms-of-service-text189 {
+  font-style: normal;
+  font-weight: 300;
+}
+.terms-of-service-text190 {
+  font-style: normal;
+  font-weight: 300;
+}
+.terms-of-service-text191 {
+  font-style: normal;
+  font-weight: 300;
+}
+.terms-of-service-text192 {
+  font-size: 28px;
+  font-weight: 700;
+}
+.terms-of-service-text193 {
+  font-style: normal;
+  font-weight: 300;
+}
+.terms-of-service-text194 {
+  font-style: normal;
+  font-weight: 300;
+}
+.terms-of-service-text195 {
+  font-style: normal;
+  font-weight: 300;
+}
+.terms-of-service-text196 {
+  font-style: normal;
+  font-weight: 300;
+}
+.terms-of-service-text197 {
+  font-style: normal;
+  font-weight: 300;
+}
+.terms-of-service-text198 {
+  font-style: normal;
+  font-weight: 300;
+}
+.terms-of-service-text199 {
+  font-style: normal;
+  font-weight: 300;
+}
+.terms-of-service-text200 {
+  font-style: normal;
+  font-weight: 300;
+}
+.terms-of-service-text201 {
+  font-style: normal;
+  font-weight: 300;
+}
+.terms-of-service-text202 {
+  font-style: normal;
+  font-weight: 300;
+}
+.terms-of-service-text203 {
+  font-style: normal;
+  font-weight: 300;
+}
+.terms-of-service-text204 {
+  font-style: normal;
+  font-weight: 300;
+}
+.terms-of-service-text205 {
+  font-size: 28px;
+  font-weight: 700;
+}
+.terms-of-service-text206 {
+  font-style: normal;
+  font-weight: 300;
+}
+.terms-of-service-text207 {
+  font-style: normal;
+  font-weight: 300;
+}
+.terms-of-service-text208 {
+  font-style: normal;
+  font-weight: 300;
+}
+.terms-of-service-text209 {
+  font-style: normal;
+  font-weight: 300;
+}
+.terms-of-service-text210 {
+  font-style: normal;
+  font-weight: 300;
+}
+.terms-of-service-text211 {
+  font-size: 28px;
+  font-weight: 700;
+}
+.terms-of-service-text212 {
+  font-style: normal;
+  font-weight: 300;
+}
+.terms-of-service-text213 {
+  font-style: normal;
+  font-weight: 300;
+}
+.terms-of-service-text214 {
+  font-style: normal;
+  font-weight: 300;
+}
+.terms-of-service-text215 {
+  font-style: normal;
+  font-weight: 300;
+}
+.terms-of-service-text216 {
+  font-style: normal;
+  font-weight: 300;
+}
+.terms-of-service-text217 {
+  font-size: 28px;
+  font-weight: 700;
+}
+.terms-of-service-text218 {
+  font-style: normal;
+  font-weight: 300;
+}
+.terms-of-service-text219 {
+  font-style: normal;
+  font-weight: 300;
+}
+.terms-of-service-text220 {
+  font-style: normal;
+  font-weight: 300;
+}
+.terms-of-service-text222 {
+  font-style: normal;
+  font-weight: 300;
+}
+.terms-of-service-text223 {
+  font-style: normal;
+  font-weight: 300;
+}
+.terms-of-service-text224 {
+  font-style: normal;
+  font-weight: 300;
+}
+.terms-of-service-text225 {
+  font-size: 28px;
+  font-weight: 700;
+}
+.terms-of-service-text226 {
+  font-style: normal;
+  font-weight: 300;
+}
+.terms-of-service-text227 {
+  font-style: normal;
+  font-weight: 300;
+}
+.terms-of-service-text228 {
+  font-style: normal;
+  font-weight: 300;
+}
+.terms-of-service-text229 {
+  color: rgb(100, 116, 139);
+  display: inline-block;
+  font-style: normal;
+  font-family: "Lexend";
+  font-weight: 700;
+}
+.terms-of-service-text230 {
+  color: rgb(100, 116, 139);
+  display: inline-block;
+  font-style: normal;
+  font-family: "Lexend";
+  font-weight: 700;
+}
+.terms-of-service-text231 {
+  color: #64748b;
+  display: inline-block;
+  font-style: normal;
+  font-family: "Lexend";
+  font-weight: 700;
+}

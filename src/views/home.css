@@ -1,0 +1,479 @@
+.home-container10 {
+  width: 100%;
+  display: flex;
+  min-height: 100vh;
+  align-items: stretch;
+  flex-direction: column;
+}
+.home-text10 {
+  display: inline-block;
+  opacity: 0;
+  animation: forwards;
+  font-size: 20px;
+  text-align: center;
+  animation-name: fadeIn;
+  animation-delay: 1.2s;
+  animation-duration: 1000ms;
+  animation-direction: normal;
+  animation-iteration-count: 1;
+  animation-timing-function: ease-in-out;
+}
+.home-text15 {
+  color: rgb(255, 255, 255);
+  display: inline-block;
+  opacity: 0;
+  font-size: 72px;
+  text-align: center;
+  font-family: "Passion One";
+  animation-name: fadeIn;
+  letter-spacing: 1.5px;
+  animation-delay: 1s;
+  animation-duration: 1000ms;
+  animation-direction: normal;
+  animation-fill-mode: forwards;
+  animation-iteration-count: 1;
+  animation-timing-function: ease;
+}
+.home-main {
+  gap: var(--dl-space-space-fourunits);
+  flex: 0 0 auto;
+  width: 100%;
+  display: flex;
+  align-items: flex-start;
+  padding-top: var(--dl-space-space-fourunits);
+  flex-direction: column;
+}
+.home-header {
+  flex: 0 0 auto;
+  height: auto;
+  display: flex;
+  align-self: stretch;
+  align-items: center;
+  padding-left: var(--dl-space-space-oneandhalfunits);
+  padding-right: var(--dl-space-space-oneandhalfunits);
+  justify-content: center;
+}
+.home-heading1 {
+  font-size: 3rem;
+  text-align: center;
+  font-family: "Lexend";
+  font-weight: 500;
+}
+.home-text18 {
+  font-style: normal;
+}
+.home-text19 {
+  font-weight: 700;
+}
+.home-text20 {
+  font-style: normal;
+}
+.home-rich-text {
+  gap: 20px;
+  flex: 0 0 auto;
+  width: 100%;
+  height: auto;
+  display: flex;
+  align-items: center;
+  padding-left: var(--dl-space-space-oneandhalfunits);
+  padding-right: var(--dl-space-space-oneandhalfunits);
+  flex-direction: column;
+  justify-content: center;
+}
+.home-heading2 {
+  font-size: 32px;
+  font-style: normal;
+  text-align: center;
+  font-family: "Lexend";
+  font-weight: 400;
+}
+.home-line1 {
+  font-size: 20px;
+  text-align: center;
+  font-family: "Lexend";
+}
+.home-text21 {
+  font-style: normal;
+  font-weight: 900;
+}
+.home-text23 {
+  color: #f50000;
+  font-weight: 900;
+  text-decoration: line-through;
+}
+.home-text25 {
+  font-style: normal;
+  font-weight: 800;
+}
+.home-text26 {
+  color: #000000;
+  font-weight: 400;
+}
+.home-line2 {
+  font-size: 20px;
+  text-align: center;
+  font-family: "Lexend";
+}
+.home-text28 {
+  font-style: normal;
+  font-weight: 900;
+}
+.home-text30 {
+  font-style: normal;
+  font-weight: 900;
+}
+.home-line3 {
+  font-size: 20px;
+  text-align: center;
+  font-family: "Lexend";
+}
+.home-text32 {
+  font-style: normal;
+  font-weight: 900;
+}
+.home-text34 {
+  font-style: normal;
+  font-weight: 900;
+}
+.home-how-it-works {
+  gap: var(--dl-space-space-fourunits);
+  flex: 0 0 auto;
+  width: 100%;
+  margin: 0 auto;
+  display: grid;
+  max-width: 1200px;
+  align-items: flex-start;
+  padding-left: var(--dl-space-space-oneandhalfunits);
+  padding-right: var(--dl-space-space-oneandhalfunits);
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+}
+.home-row1 {
+  gap: var(--dl-space-space-unit);
+  flex: 0 0 auto;
+  width: auto;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+.home-iconcontainer1 {
+  flex: 0 0 auto;
+  width: fit-content;
+  height: fit-content;
+  display: flex;
+  align-items: flex-start;
+  padding-top: var(--dl-space-space-oneandhalfunits);
+  padding-left: var(--dl-space-space-oneandhalfunits);
+  border-radius: 100%;
+  padding-right: var(--dl-space-space-oneandhalfunits);
+  padding-bottom: var(--dl-space-space-oneandhalfunits);
+  background-color: #D9D9D9;
+}
+.home-container11 {
+  width: var(--dl-size-size-small);
+  height: var(--dl-size-size-small);
+}
+.home-container12 {
+  display: contents;
+}
+.home-text36 {
+  font-size: 20px;
+  text-align: center;
+  font-family: "Lexend";
+}
+.home-row2 {
+  gap: var(--dl-space-space-unit);
+  flex: 0 0 auto;
+  width: auto;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+.home-iconcontainer2 {
+  flex: 0 0 auto;
+  width: fit-content;
+  height: fit-content;
+  display: flex;
+  align-items: flex-start;
+  padding-top: var(--dl-space-space-oneandhalfunits);
+  padding-left: var(--dl-space-space-oneandhalfunits);
+  border-radius: 100%;
+  padding-right: var(--dl-space-space-oneandhalfunits);
+  padding-bottom: var(--dl-space-space-oneandhalfunits);
+  background-color: #D9D9D9;
+}
+.home-container13 {
+  width: var(--dl-size-size-small);
+  height: var(--dl-size-size-small);
+}
+.home-container14 {
+  display: contents;
+}
+.home-text37 {
+  font-size: 20px;
+  text-align: center;
+  font-family: "Lexend";
+}
+.home-row3 {
+  gap: var(--dl-space-space-unit);
+  flex: 0 0 auto;
+  width: auto;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+.home-iconcontainer3 {
+  flex: 0 0 auto;
+  width: fit-content;
+  height: fit-content;
+  display: flex;
+  align-items: flex-start;
+  padding-top: var(--dl-space-space-oneandhalfunits);
+  padding-left: var(--dl-space-space-oneandhalfunits);
+  border-radius: 100%;
+  padding-right: var(--dl-space-space-oneandhalfunits);
+  padding-bottom: var(--dl-space-space-oneandhalfunits);
+  background-color: #D9D9D9;
+}
+.home-container15 {
+  width: var(--dl-size-size-small);
+  height: var(--dl-size-size-small);
+}
+.home-container16 {
+  display: contents;
+}
+.home-text38 {
+  font-size: 20px;
+  text-align: center;
+  font-family: "Lexend";
+}
+.home-row4 {
+  gap: var(--dl-space-space-unit);
+  flex: 0 0 auto;
+  width: auto;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+.home-iconcontainer4 {
+  flex: 0 0 auto;
+  width: fit-content;
+  height: fit-content;
+  display: flex;
+  align-items: flex-start;
+  padding-top: var(--dl-space-space-oneandhalfunits);
+  padding-left: var(--dl-space-space-oneandhalfunits);
+  border-radius: 100%;
+  padding-right: var(--dl-space-space-oneandhalfunits);
+  padding-bottom: var(--dl-space-space-oneandhalfunits);
+  background-color: #D9D9D9;
+}
+.home-container17 {
+  width: var(--dl-size-size-small);
+  height: var(--dl-size-size-small);
+}
+.home-container18 {
+  display: contents;
+}
+.home-text39 {
+  font-size: 20px;
+  text-align: center;
+  font-family: "Lexend";
+}
+.home-download-now {
+  gap: var(--dl-space-space-oneandhalfunits);
+  flex: 0 0 auto;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  padding-top: var(--dl-space-space-fourunits);
+  padding-left: var(--dl-space-space-oneandhalfunits);
+  padding-right: var(--dl-space-space-oneandhalfunits);
+  flex-direction: column;
+  padding-bottom: var(--dl-space-space-fourunits);
+  justify-content: center;
+  background-color: #D9D9D9;
+}
+.home-heading3 {
+  font-size: 3rem;
+  text-align: center;
+  font-family: "Lexend";
+  font-weight: 900;
+}
+.home-subheading {
+  font-size: 20px;
+  font-style: normal;
+  text-align: center;
+  font-family: "Lexend";
+  font-weight: 500;
+}
+.home-buttons-row {
+  gap: var(--dl-space-space-oneandhalfunits);
+  flex: 0 0 auto;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.home-button1 {
+  gap: var(--dl-space-space-unit);
+  flex: 0 0 auto;
+  width: auto;
+  height: auto;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  padding-top: var(--dl-space-space-unit);
+  padding-left: var(--dl-space-space-oneandhalfunits);
+  border-radius: 16px;
+  padding-right: var(--dl-space-space-oneandhalfunits);
+  padding-bottom: var(--dl-space-space-unit);
+  justify-content: center;
+  background-color: #000000;
+}
+.home-container19 {
+  width: 36px;
+  filter: brighten(100);
+  height: 36px;
+}
+.home-container20 {
+  display: contents;
+}
+.home-container21 {
+  flex: 0 0 auto;
+  width: auto;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.home-text40 {
+  color: rgb(255, 255, 255);
+  font-size: 14px;
+  font-style: normal;
+  font-family: "Lexend";
+  font-weight: 300;
+}
+.home-text41 {
+  color: #ffffff;
+  font-size: 20px;
+  font-family: "Lexend";
+}
+.home-button2 {
+  gap: var(--dl-space-space-unit);
+  flex: 0 0 auto;
+  width: auto;
+  height: auto;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  padding-top: var(--dl-space-space-unit);
+  padding-left: var(--dl-space-space-oneandhalfunits);
+  border-radius: 16px;
+  padding-right: var(--dl-space-space-oneandhalfunits);
+  padding-bottom: var(--dl-space-space-unit);
+  justify-content: center;
+  background-color: #000000;
+}
+.home-container22 {
+  width: 36px;
+  filter: brighten(100);
+  height: 36px;
+}
+.home-container23 {
+  display: contents;
+}
+.home-container24 {
+  flex: 0 0 auto;
+  width: auto;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.home-text42 {
+  color: rgb(255, 255, 255);
+  font-size: 14px;
+  font-style: normal;
+  font-family: "Lexend";
+  font-weight: 300;
+}
+.home-text43 {
+  color: rgb(255, 255, 255);
+  font-size: 20px;
+  font-family: "Lexend";
+}
+.home-text44 {
+  color: rgb(100, 116, 139);
+  display: inline-block;
+  font-style: normal;
+  font-family: "Lexend";
+  font-weight: 700;
+}
+.home-text45 {
+  color: rgb(100, 116, 139);
+  display: inline-block;
+  font-style: normal;
+  font-family: "Lexend";
+  font-weight: 700;
+}
+.home-text46 {
+  color: rgb(100, 116, 139);
+  display: inline-block;
+  font-style: normal;
+  font-family: "Lexend";
+  font-weight: 700;
+}
+@media(max-width: 991px) {
+  .home-how-it-works {
+    flex-wrap: wrap;
+  }
+  .home-heading3 {
+    text-align: center;
+  }
+}
+@media(max-width: 767px) {
+  .home-heading1 {
+    font-size: 2.5rem;
+    line-height: 1.5;
+  }
+  .home-how-it-works {
+    grid-template-columns: 1fr 1fr;
+  }
+  .home-heading3 {
+    text-align: center;
+  }
+}
+@media(max-width: 479px) {
+  .home-text15 {
+    text-align: center;
+  }
+  .home-heading1 {
+    font-size: 2rem;
+  }
+  .home-line1 {
+    text-align: left;
+  }
+  .home-line2 {
+    text-align: left;
+  }
+  .home-line3 {
+    text-align: left;
+  }
+  .home-how-it-works {
+    flex-direction: column;
+  }
+  .home-heading3 {
+    font-size: 2.5rem;
+    text-align: center;
+  }
+  .home-subheading {
+    line-height: 1.5;
+  }
+  .home-buttons-row {
+    flex-wrap: wrap;
+  }
+}
