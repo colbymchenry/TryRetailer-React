@@ -6,7 +6,7 @@
   flex-direction: column;
 }
 .home-text10 {
-  color: #ffffff;
+  color: rgb(255, 255, 255);
   display: inline-block;
   opacity: 0;
   animation: forwards;

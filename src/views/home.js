@@ -18,7 +18,7 @@ const Home = (props) => {
         body={
           <Fragment>
             <span className="home-text10">
-              <span>One simple App saving your time and money.</span>
+              <span>One simple App saving you time and money.</span>
               <br></br>
               <br></br>
               <span>
