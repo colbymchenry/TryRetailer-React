@@ -71,7 +71,7 @@
   border-radius: 40px;
 }
 .hero-text1 {
-  color: rgb(255, 255, 255);
+  color: #ffffff;
   display: inline-block;
   opacity: 0;
   animation: forwards;
@@ -92,7 +92,7 @@
   opacity: 0;
   font-size: 72px;
   text-align: center;
-  font-family: "Lexend";
+  font-family: "Passion One";
   animation-name: fadeIn;
   letter-spacing: 1.5px;
   animation-delay: 1s;
