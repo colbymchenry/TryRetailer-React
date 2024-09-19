@@ -20,7 +20,7 @@ const Nav = (props) => {
         <Link to="/" className="nav-navlink">
           {props.text1 ?? (
             <Fragment>
-              <span className="nav-text5">Retailer</span>
+              <span className="nav-text3">Retailer</span>
             </Fragment>
           )}
         </Link>
@@ -64,15 +64,15 @@ const Nav = (props) => {
 Nav.defaultProps = {
   link: undefined,
   rootClassName: '',
-  link1: undefined,
   text1: undefined,
+  link1: undefined,
 }
 
 Nav.propTypes = {
   link: PropTypes.element,
   rootClassName: PropTypes.string,
-  link1: PropTypes.element,
   text1: PropTypes.element,
+  link1: PropTypes.element,
 }
 
 export default Nav

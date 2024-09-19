@@ -40,12 +40,12 @@ const TermsOfService = (props) => {
             </a>
           </Fragment>
         }
-        rootClassName="navroot-class-name"
         text1={
           <Fragment>
             <span className="terms-of-service-text104">Retailer</span>
           </Fragment>
         }
+        rootClassName="navroot-class-name"
       ></Nav>
       <div className="terms-of-service-main">
         <span className="terms-of-service-text105">

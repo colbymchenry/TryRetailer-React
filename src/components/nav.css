@@ -53,6 +53,12 @@
   font-family: "Lexend";
   font-weight: 500;
 }
+.nav-text3 {
+  color: rgb(255, 255, 255);
+  display: inline-block;
+  font-size: 24px;
+  font-family: "Lexend";
+}
 .nav-link4 {
   color: #ffffff;
   display: inline-block;
@@ -60,12 +66,6 @@
   font-style: normal;
   font-family: "Lexend";
   font-weight: 500;
-}
-.nav-text5 {
-  color: rgb(255, 255, 255);
-  display: inline-block;
-  font-size: 24px;
-  font-family: "Lexend";
 }
 
 @media(max-width: 479px) {
